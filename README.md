@@ -25,5 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjanakavindu97&show_icons=true&locale=en" alt="anjanakavindu97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjanakavindu97&" alt="anjanakavindu97" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjanakavindu97)](https://github.com/anuraghazra/github-readme-stats)
