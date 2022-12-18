@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjanakavindu97&" alt="anjanakavindu97" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjanakavindu97=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjanakavindu97)](https://github.com/anuraghazra/github-readme-stats)
